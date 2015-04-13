@@ -1,0 +1,9 @@
+# Generated files
+bin/
+gen/
+
+# Log Files  
+*.log
+
+# Private files
+src/com/ricoxie/bdc/pool/
